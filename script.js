@@ -80,7 +80,7 @@ const questions=[
         {text:"print(list[1])",correct:true},  
     ]
  }, {
-    question:"What is the function to convet the first letter to upper case in strings?",
+    question:"What is the function to convert the first letter to upper case in strings?",
     answers: [
         {text:"casefold()",correct:false},
         {text:"center()",correct:false},
